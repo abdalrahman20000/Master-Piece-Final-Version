@@ -19,8 +19,8 @@ https://www.figma.com/design/iyHzuoR3s2SXXL4tLDtVZX/Untitled?node-id=0-1&t=IBWom
 https://trello.com/invite/b/6709b7f2734bd0a92f12f174/ATTI22ece0aa1dbc4c444bc56c9fc424766bCAB2A51B/mentors-programmers-project
 
 ## Project brief
-https://docs.google.com/document/d/1xZVGe_cdMKb7bSoYyYWlCukwdv1B3_KN/edit?usp=sharing&ouid=106969899946625396145&rtpof=true&sd=true
+[https://docs.google.com/document/d/1xZVGe_cdMKb7bSoYyYWlCukwdv1B3_KN/edit?usp=sharing&ouid=106969899946625396145&rtpof=true&sd=true](https://docs.google.com/document/d/1pjB1W3hd2nlfoPT5vb5Ky11DsLT8OnAF/edit?usp=sharing&ouid=106969899946625396145&rtpof=true&sd=true)
 
 ## Documentation
-https://docs.google.com/document/d/1MQ_QTZOrOH-I2wcVmwgv8jE5pv2WiZ_0/edit?usp=sharing&ouid=106969899946625396145&rtpof=true&sd=true
+[https://docs.google.com/document/d/1MQ_QTZOrOH-I2wcVmwgv8jE5pv2WiZ_0/edit?usp=sharing&ouid=106969899946625396145&rtpof=true&sd=true](https://docs.google.com/document/d/1pjB1W3hd2nlfoPT5vb5Ky11DsLT8OnAF/edit?usp=sharing&ouid=106969899946625396145&rtpof=true&sd=true)
 
